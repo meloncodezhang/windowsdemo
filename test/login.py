@@ -11,3 +11,11 @@ num3 = 300
 # 张三队添加了一个判断功能
 if num3 > 100:
 	print("登录成功")
+	
+# 经理添加了了一个循环功能
+
+while num2 > 100:
+	print("jaja")
+	num -= 1
+	if num2 < 50:
+		break
